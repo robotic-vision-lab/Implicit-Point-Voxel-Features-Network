@@ -1,8 +1,9 @@
 # Implicit-Point-Voxel-Features-Network
 
-IPVNet: Learning Implicit Point-Voxel Features for Open-Surface 3D 
-Reconstruction <br />
-[Mohammad Samiul Arshad](https://samiarshad.github.io/), [William J. Beksi](https://ranger.uta.edu/~wjbeksi/)
+This repository contains the PyTorch implementation for the paper: <br>
+*[IPVNet: Learning Implicit Point-Voxel Features for Open-Surface 3D 
+Reconstruction]()* <br>
+*Mohammad Samiul Arshad, William J. Beksi* <br>
 
 Published in Journal of Visual Communication and Image Representation, 2023.
 
@@ -57,12 +58,12 @@ Again replace `configs/EXP_NAME.txt` in the above commands with the desired conf
 
 ## Contact
 
-For questions and comments, please contact [Mohammad Samiul Arshad](https://samiarshad.github.io/) via mail.
+For questions and comments, please contact *[Mohammad Samiul Arshad](https://samiarshad.github.io/)* via email.
 
 
 ## License
 
 ## Acknowledgement
 
-Our code is based on [NDF](https://github.com/jchibane/ndf). We thank the authors for their excellent work!
+Our code is based on [NDF](https://github.com/jchibane/ndf) and [OCCNet](https://github.com/autonomousvision/occupancy_networks). We thank the authors for their excellent work!
 

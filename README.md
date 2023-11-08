@@ -77,13 +77,13 @@ configuration.
 
 ## Usage 
 
-## Model Training 
+### Model Training 
 
 IPVNet can be trained by invoking the command 
 
     $ python train.py --config configs/EXP_NAME.txt
 
-## Model Inference
+### Model Inference
 
 To generate results for instances of the test set, run the command 
 

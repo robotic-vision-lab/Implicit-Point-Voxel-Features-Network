@@ -11,7 +11,7 @@ this distinction often leads to artifacts such as the artificial closing of
 surface gaps.
 
 <p align="center">
-<img src="images/overview.png" alt="overview" width="400"/>
+  <img src="images/overview.png" alt="overview" width="400"/>
 </p>
 
 This repository provides source code for our 2023 Journal of Visual
@@ -43,7 +43,7 @@ If you find this project useful, then please consider citing our work.
 ### Model Architecture
 
 <p align="center">
-<img src="images/model_architecture.png" alt="model_architecture" width="800"/>
+  <img src="images/model_architecture.png" alt="model architecture" width="800"/>
 </p>
 
 ### Installation
